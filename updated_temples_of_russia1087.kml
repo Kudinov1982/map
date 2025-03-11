@@ -1,0 +1,3321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:kml xmlns:ns0="http://earth.google.com/kml/2.1">
+<ns0:Document><ns0:name />
+<ns0:Style id="style_survive">
+<ns0:IconStyle>
+<ns0:hotSpot x="1" y="1" xunits="pixels" yunits="pixels" />
+<ns0:Icon><ns0:href>http://temples.ru/img/marker_church.png</ns0:href></ns0:Icon>
+</ns0:IconStyle>
+<ns0:BalloonStyle><ns0:text>&lt;div&gt;&lt;b&gt;&lt;font color="#990000" size="+1"&gt;$[name]&lt;/font&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;$[description]&lt;/div&gt;</ns0:text></ns0:BalloonStyle>
+</ns0:Style>
+<ns0:Style id="style_destroyed">
+<ns0:IconStyle>
+<ns0:scale>1.0</ns0:scale>
+<ns0:Icon><ns0:href>http://temples.ru/img/marker_church_n.png</ns0:href></ns0:Icon>
+</ns0:IconStyle>
+<ns0:BalloonStyle><ns0:text>&lt;b&gt;&lt;font color="#330000" size="+1"&gt;$[name]&lt;/font&gt;&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;$[description]</ns0:text></ns0:BalloonStyle>
+</ns0:Style>
+<ns0:Style id="style_line_center">
+<ns0:IconStyle>
+<ns0:color>10ffffff</ns0:color>
+<ns0:scale>0.1</ns0:scale>
+<ns0:Icon>
+<ns0:href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</ns0:href>
+</ns0:Icon>
+</ns0:IconStyle>
+</ns0:Style>
+<ns0:Style id="search_area">
+<ns0:PolyStyle>
+<ns0:color>66ffffff</ns0:color>
+<ns0:outline>0</ns0:outline>
+</ns0:PolyStyle>
+</ns0:Style>
+<ns0:Placemark>
+
+<ns0:name>Церковь Михаила Архангела в Никольско-Архангельском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Никольское-Архангельское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.898385</ns0:longitude>
+<ns0:latitude>55.757614</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.898385,55.757614,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Пехре-Покровском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Пехра-Покровское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.939394</ns0:longitude>
+<ns0:latitude>55.833808</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.939394,55.833808,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня в Пехре-Яковлевском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Пехра-Яковлевское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.954021</ns0:longitude>
+<ns0:latitude>55.793292</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.954021,55.793292,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Николо-Трубецком (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Никольское-Трубецкое&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.967458</ns0:longitude>
+<ns0:latitude>55.835869</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.967458,55.835869,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Троицком-Кайнарджи (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Кайнарджи&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.957088</ns0:longitude>
+<ns0:latitude>55.725914</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.957088,55.725914,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Космы и Дамиана в Болшево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Болшево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.862583</ns0:longitude>
+<ns0:latitude>55.933540</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.862583,55.933540,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня в Болшево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Болшево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.864466</ns0:longitude>
+<ns0:latitude>55.934387</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.864466,55.934387,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Пантелеимона Целителя в Первомайском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Лапино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.866555</ns0:longitude>
+<ns0:latitude>55.945962</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.866555,55.945962,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Михаила Архангела в Белом Расте (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Белый Раст&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.405111</ns0:longitude>
+<ns0:latitude>56.128476</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.405111,56.128476,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Озерецком (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Озерецкое&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.384166</ns0:longitude>
+<ns0:latitude>56.072451</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.384166,56.072451,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Александра Невского в Балашихе (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Горенки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.929305</ns0:longitude>
+<ns0:latitude>55.797189</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.929305,55.797189,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Знаменском-Губайлово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Знаменское-Губайлово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.322123</ns0:longitude>
+<ns0:latitude>55.820513</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.322123,55.820513,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Знаменском-Губайлово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Знаменское-Губайлово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.322423</ns0:longitude>
+<ns0:latitude>55.820576</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.322423,55.820576,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Павшине (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Павшино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.356263</ns0:longitude>
+<ns0:latitude>55.810354</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.356263,55.810354,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Боголюбская в Павшине (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Павшино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.356220</ns0:longitude>
+<ns0:latitude>55.810582</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.356220,55.810582,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Чернево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Чернево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.293158</ns0:longitude>
+<ns0:latitude>55.837082</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.293158,55.837082,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Воскресения Словущего в Троицком-Кайнарджи (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=419"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0100581g.jpg" border=1 width="121" height="180"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., адм. тер. Балашиха, д. Павлино, 56&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=419"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.957547</ns0:longitude>
+<ns0:latitude>55.725984</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.957547,55.725984,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Молитвенный дом в Реутове (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=3202"&gt;&lt;img src="http://www.temples.ru/private/f001090/090_0389100g.jpg" border=1 width="180" height="135"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., адм. тер. Реутов, г. Реутов, ул. Ашхабадская, 16/1&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=3202"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.862567</ns0:longitude>
+<ns0:latitude>55.759179</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.862567,55.759179,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца (?) в Салтыковке (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Салтыковка (Ново-Сокольники)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.920798</ns0:longitude>
+<ns0:latitude>55.751674</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.920798,55.751674,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Ангелово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ангелово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.314080</ns0:longitude>
+<ns0:latitude>55.860277</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.314080,55.860277,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Марьино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Марьино-Знаменское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.309054</ns0:longitude>
+<ns0:latitude>55.866274</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.309054,55.866274,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Говорово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Говорово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.434874</ns0:longitude>
+<ns0:latitude>55.654910</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.434874,55.654910,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Тёплом Стане (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Тёплый Стан&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.476112</ns0:longitude>
+<ns0:latitude>55.615171</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.476112,55.615171,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Наташино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Наташино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.890353</ns0:longitude>
+<ns0:latitude>55.703745</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.890353,55.703745,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Николо-Угрешский мужской монастырь (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.839467</ns0:longitude>
+<ns0:latitude>55.622661</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.839467,55.622661,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Собор Николая Чудотворца в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.839776</ns0:longitude>
+<ns0:latitude>55.621807</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.839776,55.621807,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Собор Преображения Господня в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.839960</ns0:longitude>
+<ns0:latitude>55.621516</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.839960,55.621516,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.840173</ns0:longitude>
+<ns0:latitude>55.622385</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.840173,55.622385,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Усекновения Главы Иоанна Предтечи в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.840460</ns0:longitude>
+<ns0:latitude>55.622368</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.840460,55.622368,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня в Люберцах (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Люберцы&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.898445</ns0:longitude>
+<ns0:latitude>55.675530</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.898445,55.675530,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Преображения Господня в Люберцах (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Люберцы&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.898455</ns0:longitude>
+<ns0:latitude>55.675540</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.898455,55.675540,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Всех Скорбящих Радость в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.841295</ns0:longitude>
+<ns0:latitude>55.622330</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.841295,55.622330,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.841312</ns0:longitude>
+<ns0:latitude>55.621259</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.841312,55.621259,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.838565</ns0:longitude>
+<ns0:latitude>55.623832</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.838565,55.623832,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Явления образа Николая Чудотворца в Николо-Угрешском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.840453</ns0:longitude>
+<ns0:latitude>55.621847</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.840453,55.621847,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Петровском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Петровское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.882878</ns0:longitude>
+<ns0:latitude>55.594909</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.882878,55.594909,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Петровском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Петровское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.885395</ns0:longitude>
+<ns0:latitude>55.595879</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.885395,55.595879,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня в Кореневе (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коренево (Кренево)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>38.005020</ns0:longitude>
+<ns0:latitude>55.672745</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>38.005020,55.672745,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Котельниках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Котельники&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.878211</ns0:longitude>
+<ns0:latitude>55.647719</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.878211,55.647719,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Владимирская в Красково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Красково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.975748</ns0:longitude>
+<ns0:latitude>55.658952</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.975748,55.658952,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Малаховке (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Малаховка&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>38.015867</ns0:longitude>
+<ns0:latitude>55.648173</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>38.015867,55.648173,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Благовещения Пресвятой Богородицы в Тайнинском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Тайнинское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.692212</ns0:longitude>
+<ns0:latitude>55.901553</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.692212,55.901553,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Георгия Победоносца в Тарбеево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Старбеево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.492700</ns0:longitude>
+<ns0:latitude>55.917660</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.492700,55.917660,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Радонежского в Долгопрудном (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., хут. Чернецово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.521258</ns0:longitude>
+<ns0:latitude>55.919653</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.521258,55.919653,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Котово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Котово-Спасское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.506832</ns0:longitude>
+<ns0:latitude>55.952926</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.506832,55.952926,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Киово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Киово-Спасское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.492107</ns0:longitude>
+<ns0:latitude>56.019801</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.492107,56.019801,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Николая Чудотворца в Николо-Угрешском монастыре (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Николо-Угрешский монастырь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.840699</ns0:longitude>
+<ns0:latitude>55.623353</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.840699,55.623353,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Донская в Перловке (строит.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=2028"&gt;&lt;img src="http://www.temples.ru/private/f001090/090_0409794g.jpg" border=1 width="121" height="180"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., адм. тер. Мытищи, г. Мытищи, Московский пер., 4, стр. 2&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=2028"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.732552</ns0:longitude>
+<ns0:latitude>55.896162</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.732552,55.896162,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Михаила Архангела на Красной Поляне (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Пучково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.430154</ns0:longitude>
+<ns0:latitude>56.026679</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.430154,56.026679,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Витенёво (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Витенёво&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.670575</ns0:longitude>
+<ns0:latitude>56.045906</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.670575,56.045906,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Драчево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Драчево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.604152</ns0:longitude>
+<ns0:latitude>56.109190</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.604152,56.109190,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Марфино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Марфино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.560950</ns0:longitude>
+<ns0:latitude>56.080872</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.560950,56.080872,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Марфино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Марфино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.560185</ns0:longitude>
+<ns0:latitude>56.080763</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.560185,56.080763,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Христова в Осташково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Осташково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.628509</ns0:longitude>
+<ns0:latitude>55.993757</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.628509,55.993757,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Никиты Великомученика в Погорелках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Погорелки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.649051</ns0:longitude>
+<ns0:latitude>55.962914</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.649051,55.962914,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Прусах (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Прусы&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.703658</ns0:longitude>
+<ns0:latitude>56.023302</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.703658,56.023302,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иконы Божией Матери Владимирская в Хлыстово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Хлыстово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.953129</ns0:longitude>
+<ns0:latitude>55.667762</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.953129,55.667762,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Троице-Сельце (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троице-Сельцо&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.512578</ns0:longitude>
+<ns0:latitude>56.066987</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.512578,56.066987,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Троицком-Шереметьево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Шереметьево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.579555</ns0:longitude>
+<ns0:latitude>55.986913</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.579555,55.986913,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Федоскино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Федоскино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.581250</ns0:longitude>
+<ns0:latitude>56.052375</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.581250,56.052375,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иконы Божией Матери Смоленская в Чиверёво (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Чиверёво&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.608104</ns0:longitude>
+<ns0:latitude>55.987952</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.608104,55.987952,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Богоявления Господня в Никольском-Богоявленском (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=2079"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0191257g.jpg" border=1 width="180" height="119"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., Мытищинский р-н, д. Сгонники&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=2079"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.674185</ns0:longitude>
+<ns0:latitude>55.918478</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.674185,55.918478,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Свиноедово (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=2096"&gt;&lt;img src="http://www.temples.ru/private/f000002/002_0009739g.jpg" border=1 width="152" height="180"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., Мытищинский р-н, пос. Здравница, туббольница N 6, корп. 1&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=2096"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.737580</ns0:longitude>
+<ns0:latitude>55.961265</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.737580,55.961265,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Серафима Саровского в Катюшках (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., хут. Катюшки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.451437</ns0:longitude>
+<ns0:latitude>56.002873</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.451437,56.002873,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Драчево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Драчево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.605269</ns0:longitude>
+<ns0:latitude>56.109244</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.605269,56.109244,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иконы Божией Матери Страстная в Канаево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Канаево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.653194</ns0:longitude>
+<ns0:latitude>56.099823</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.653194,56.099823,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Рождества Пресвятой Богородицы в Хлябово (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Хлябово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.549097</ns0:longitude>
+<ns0:latitude>56.125528</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.549097,56.125528,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Ромашково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ромашково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.343972</ns0:longitude>
+<ns0:latitude>55.735384</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.343972,55.735384,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Пушкино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Пушкино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.868991</ns0:longitude>
+<ns0:latitude>55.988755</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.868991,55.988755,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Гребневская в Клязьме (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Клязьма&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.837783</ns0:longitude>
+<ns0:latitude>55.977574</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.837783,55.977574,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Клязьме (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Клязьма&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.837816</ns0:longitude>
+<ns0:latitude>55.976993</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.837816,55.976993,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Смоленская в Ивантеевке (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Вантеево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.911542</ns0:longitude>
+<ns0:latitude>55.970649</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.911542,55.970649,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Георгия Победоносца в Новосёлках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Новоселки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.950244</ns0:longitude>
+<ns0:latitude>55.972713</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.950244,55.972713,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Михалево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Михалево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.703919</ns0:longitude>
+<ns0:latitude>56.085842</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.703919,56.085842,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Сергия Радонежского в Тарасовке (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Тарасовка&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.836800</ns0:longitude>
+<ns0:latitude>55.963300</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.836800,55.963300,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Черкизово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Черкизово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.798221</ns0:longitude>
+<ns0:latitude>55.970208</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.798221,55.970208,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Христова в Черкизово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Черкизово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.353287</ns0:longitude>
+<ns0:latitude>55.949591</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.353287,55.949591,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Поярково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Поярково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.326801</ns0:longitude>
+<ns0:latitude>56.012712</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.326801,56.012712,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Алексия, митрополита Московского, в Середниково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Середниково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.227688</ns0:longitude>
+<ns0:latitude>55.932330</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.227688,55.932330,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Трахонеево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Траханеево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.454627</ns0:longitude>
+<ns0:latitude>55.956432</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.454627,55.956432,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Химках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Петровское-Лобаново&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.459977</ns0:longitude>
+<ns0:latitude>55.902679</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.459977,55.902679,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Сходне (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Сходня&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.302066</ns0:longitude>
+<ns0:latitude>55.951026</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.302066,55.951026,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Любимовке (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=2756"&gt;&lt;img src="http://www.temples.ru/private/f000744/744_0423874g.jpg" border=1 width="180" height="119"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., адм. тер. Пушкино, с. Тарасовка, усадьба Любимовка&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=2756"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.844214</ns0:longitude>
+<ns0:latitude>55.960866</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.844214,55.960866,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Сходне (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Сходня&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.301781</ns0:longitude>
+<ns0:latitude>55.951495</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.301781,55.951495,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Радонежского в Киреево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Киреево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.486725</ns0:longitude>
+<ns0:latitude>55.898897</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.486725,55.898897,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Ивакино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ивакино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.475612</ns0:longitude>
+<ns0:latitude>55.954625</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.475612,55.954625,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы во Льялово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Льялово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.224900</ns0:longitude>
+<ns0:latitude>56.050600</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.224900,56.050600,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Мышецком (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Мышецкое&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.354288</ns0:longitude>
+<ns0:latitude>56.038530</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.354288,56.038530,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Илии Пророка в Пешках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Стребуковский погост&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.082100</ns0:longitude>
+<ns0:latitude>56.123400</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.082100,56.123400,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Рузино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пог. Покровское-Брехово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.197329</ns0:longitude>
+<ns0:latitude>55.943562</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.197329,55.943562,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Иевлеве-Знаменском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Иевлево-Знаменское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.303077</ns0:longitude>
+<ns0:latitude>56.025040</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.303077,56.025040,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Параскевы (Пятницы) Великомученицы в Северном Бутово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Киево-Качалово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.580729</ns0:longitude>
+<ns0:latitude>55.571545</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.580729,55.571545,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Христова в Рождествено (каменная) (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Рождествено на Сходне&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.367569</ns0:longitude>
+<ns0:latitude>55.860706</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.367569,55.860706,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Зеленограде (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ржавки (Никольское)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.243688</ns0:longitude>
+<ns0:latitude>55.995313</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.243688,55.995313,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Владимирская в Куркино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Куркино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.380453</ns0:longitude>
+<ns0:latitude>55.889742</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.380453,55.889742,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Архангельском-Тюриково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Архангельское-Тюриково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.554903</ns0:longitude>
+<ns0:latitude>55.917771</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.554903,55.917771,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Владимирская в Виноградово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., c. Виноградово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.546501</ns0:longitude>
+<ns0:latitude>55.942679</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.546501,55.942679,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Косино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Косино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.857053</ns0:longitude>
+<ns0:latitude>55.719045</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.857053,55.719045,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Косино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Косино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.857084</ns0:longitude>
+<ns0:latitude>55.719368</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.857084,55.719368,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Филях (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Покровское-Фили&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.510166</ns0:longitude>
+<ns0:latitude>55.750721</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.510166,55.750721,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Оболдино (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=7947"&gt;&lt;img src="http://www.temples.ru/private/f000341/341_0077569g.jpg" border=1 width="128" height="180"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Московская обл., Щелковский р-н, д. Оболдино&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=7947"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.927216</ns0:longitude>
+<ns0:latitude>55.882297</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.927216,55.882297,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Димитрия Солунского в Щитниково (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=9766"&gt;&lt;img src="http://www.temples.ru/private/f000002/002_0019744g.jpg" border=1 width="180" height="135"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, пос. Восточный, ул. Западная, 1&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=9766"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.858617</ns0:longitude>
+<ns0:latitude>55.819574</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.858617,55.819574,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня в Нетесово (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Нетесово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.140656</ns0:longitude>
+<ns0:latitude>56.070035</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.140656,56.070035,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Христова в Рождествено (деревянная) (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Рождествено на Сходне&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.369063</ns0:longitude>
+<ns0:latitude>55.860583</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.369063,55.860583,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Крылатском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Крылатское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.425783</ns0:longitude>
+<ns0:latitude>55.755641</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.425783,55.755641,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Скоропослушница при лагерном отделении Московского военного госпиталя (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., ур. Серебряный Бор&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.491535</ns0:longitude>
+<ns0:latitude>55.798015</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.491535,55.798015,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Хорошево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Хорошево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.456815</ns0:longitude>
+<ns0:latitude>55.776092</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.456815,55.776092,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Троицком-Лыково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Лыково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.406283</ns0:longitude>
+<ns0:latitude>55.788723</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.406283,55.788723,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Троицком-Лыково (каменная) (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Лыково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.405797</ns0:longitude>
+<ns0:latitude>55.790458</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.405797,55.790458,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иконы Божией Матери Рудненская в Крылатском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Крылатское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.423494</ns0:longitude>
+<ns0:latitude>55.753810</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.423494,55.753810,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Тушино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Тушино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.421086</ns0:longitude>
+<ns0:latitude>55.825760</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.421086,55.825760,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Пантелеимона Целителя при лагерном отделении Московского военного госпиталя (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., ур. Серебряный Бор&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.491395</ns0:longitude>
+<ns0:latitude>55.798032</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.491395,55.798032,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Алексия, митрополита Московского, при летних лагерях 221-го пехотного резервного Троице-Сергиевского полка (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., у с. Хорошево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.447542</ns0:longitude>
+<ns0:latitude>55.789651</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.447542,55.789651,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Скорбященская Свято-Троицкая женская община (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Лыково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.406210</ns0:longitude>
+<ns0:latitude>55.789643</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.406210,55.789643,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Скорбященской Свято-Троицкой общине (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Лыково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.406310</ns0:longitude>
+<ns0:latitude>55.790723</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.406310,55.790723,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Кунцево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Кунцево-Знаменское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.462521</ns0:longitude>
+<ns0:latitude>55.737743</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.462521,55.737743,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Михаила Архангела при Кутузовской избе (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Можайское ш., ур. Кутузовская изба&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.523670</ns0:longitude>
+<ns0:latitude>55.739810</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.523670,55.739810,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Аксиньино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Аксиньино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.486299</ns0:longitude>
+<ns0:latitude>55.857898</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.486299,55.857898,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иконы Божией Матери Знамение в Аксиньино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Аксиньино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.486141</ns0:longitude>
+<ns0:latitude>55.857757</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.486141,55.857757,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Серафимовская женская община (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=7025"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0094740g.jpg" border=1 width="180" height="135"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, ул. Багрицкого, 10, корп. 3&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=7025"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.433854</ns0:longitude>
+<ns0:latitude>55.723184</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.433854,55.723184,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Серафимовской общине (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=7027"&gt;&lt;img src="http://www.temples.ru/private/f000003/f130fr74g.jpg" border=1 width="180" height="116"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, ул. Багрицкого, 10, корп. 3, стр. 5&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=7027"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.434074</ns0:longitude>
+<ns0:latitude>55.723328</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.434074,55.723328,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Казанский Головинский женский монастырь (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;Москва, [территория к северу от перекрёстка ул. Смольная и Кронштадтского бульв.]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6354"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.498001</ns0:longitude>
+<ns0:latitude>55.844735</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.498001,55.844735,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Мученика и Иулии Мученицы в Скорбященской Свято-Троицкой общине (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Лыково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.406622</ns0:longitude>
+<ns0:latitude>55.788699</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.406622,55.788699,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Всех Скорбящих Радость в Скорбященской Свято-Троицкой общине (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Лыково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.407098</ns0:longitude>
+<ns0:latitude>55.789246</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.407098,55.789246,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Серафима Саровского в Серафимовской общине (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Новое Кунцево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.433685</ns0:longitude>
+<ns0:latitude>55.723111</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.433685,55.723111,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Александра Невского в Строгино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Строгино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.422564</ns0:longitude>
+<ns0:latitude>55.809247</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.422564,55.809247,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Космы и Дамиана Римских в Космодемьянском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Космодемьянское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.455383</ns0:longitude>
+<ns0:latitude>55.880363</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.455383,55.880363,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Ховрино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ховрино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.509292</ns0:longitude>
+<ns0:latitude>55.864638</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.509292,55.864638,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Бориса и Глеба в Западном Дегунино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Дегунино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.534269</ns0:longitude>
+<ns0:latitude>55.866824</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.534269,55.866824,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Братцево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Братцево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.402199</ns0:longitude>
+<ns0:latitude>55.854016</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.402199,55.854016,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Собор Троицы Живоначальной в Казанском Головинском монастыре (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Головино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.498529</ns0:longitude>
+<ns0:latitude>55.845147</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.498529,55.845147,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Акилины Мученицы в Казанском Головинском монастыре (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Головино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.499129</ns0:longitude>
+<ns0:latitude>55.844814</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.499129,55.844814,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Всемилостивого в Казанском Головинском монастыре (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Головино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.499693</ns0:longitude>
+<ns0:latitude>55.846196</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.499693,55.846196,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Казанском Головинском монастыре (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Головино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.499476</ns0:longitude>
+<ns0:latitude>55.845070</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.499476,55.845070,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня в Спас-Тушино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Спасское (Спас)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.402190</ns0:longitude>
+<ns0:latitude>55.831799</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.402190,55.831799,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Покровском-Стрешнево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Покровское-Глебово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.471666</ns0:longitude>
+<ns0:latitude>55.814680</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.471666,55.814680,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы в Медведково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Медведково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.638078</ns0:longitude>
+<ns0:latitude>55.865278</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.638078,55.865278,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Свиблово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Свиблово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.631992</ns0:longitude>
+<ns0:latitude>55.853118</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.631992,55.853118,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы во Владыкино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Владыкино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.584081</ns0:longitude>
+<ns0:latitude>55.849180</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.584081,55.849180,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Серафима Саровского в Иваньково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Иваньково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.462800</ns0:longitude>
+<ns0:latitude>55.828027</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.462800,55.828027,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Сергия Радонежского в Коровино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Коровино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.514408</ns0:longitude>
+<ns0:latitude>55.886333</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.514408,55.886333,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Сергия Радонежского в Химках (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Химки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.459362</ns0:longitude>
+<ns0:latitude>55.870052</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.459362,55.870052,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Николая Чудотворца в Никольском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Никольское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.479902</ns0:longitude>
+<ns0:latitude>55.838320</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.479902,55.838320,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Радонежского в Бибирево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Бибирево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.598267</ns0:longitude>
+<ns0:latitude>55.886728</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.598267,55.886728,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Воздвижения Честного Креста Господня в Алтуфьево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Алтуфьево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.586370</ns0:longitude>
+<ns0:latitude>55.908014</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.586370,55.908014,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Адриана и Наталии в Бабушкине (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Лосиноостровская&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.699521</ns0:longitude>
+<ns0:latitude>55.865286</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.699521,55.865286,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Зосимы и Савватия Соловецких в Гольяново (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Гольяново&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.814093</ns0:longitude>
+<ns0:latitude>55.818390</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.814093,55.818390,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Карачарово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Карачарово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.732507</ns0:longitude>
+<ns0:latitude>55.731548</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.732507,55.731548,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Благовещения Пресвятой Богородицы в Бибирево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Бибирево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.598146</ns0:longitude>
+<ns0:latitude>55.886767</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.598146,55.886767,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца при убежище для лиц женского пола, имеющих медицинское звание (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Лосиноостровская&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.699735</ns0:longitude>
+<ns0:latitude>55.870737</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.699735,55.870737,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Лосиноостровской (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Лосиноостровская, Лосиноостровский пр.&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.679714</ns0:longitude>
+<ns0:latitude>55.865144</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.679714,55.865144,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Сабурово (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Сабурово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.621565</ns0:longitude>
+<ns0:latitude>55.876941</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.621565,55.876941,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Бориса и Глеба в Верхних Лихоборах (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Верхние Лихоборы&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.562520</ns0:longitude>
+<ns0:latitude>55.855922</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.562520,55.855922,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Михаила Архангела в Нижних Лихоборах (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Нижние Лихоборы&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.565709</ns0:longitude>
+<ns0:latitude>55.851878</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.565709,55.851878,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Сергия Радонежского в Малых Мытищах (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Малые Мытищи&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.719844</ns0:longitude>
+<ns0:latitude>55.878199</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.719844,55.878199,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Раево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Раево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.648861</ns0:longitude>
+<ns0:latitude>55.881252</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.648861,55.881252,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Успения Пресвятой Богородицы в Вешняках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Вешняки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.798559</ns0:longitude>
+<ns0:latitude>55.723644</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.798559,55.723644,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Всемилостивого в Кусково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Кусково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.808384</ns0:longitude>
+<ns0:latitude>55.734794</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.808384,55.734794,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Перово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Перово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.772979</ns0:longitude>
+<ns0:latitude>55.743103</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.772979,55.743103,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Гиреево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Старое Гиреево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.814292</ns0:longitude>
+<ns0:latitude>55.757716</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.814292,55.757716,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Иоанна Предтечи в Ивановском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ивановское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.839256</ns0:longitude>
+<ns0:latitude>55.769028</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.839256,55.769028,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Собор Покрова Пресвятой Богородицы в Измайлово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Измайлово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.765202</ns0:longitude>
+<ns0:latitude>55.791290</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.765202,55.791290,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Чуда Михаила Архангела в Хонех в Кусково (сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=7091"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0147378g.jpg" border=1 width="180" height="153"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, ул. Юности, 2, стр. 7&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=7091"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.810900</ns0:longitude>
+<ns0:latitude>55.737961</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.810900,55.737961,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Христова в Измайлово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Измайлово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.769624</ns0:longitude>
+<ns0:latitude>55.800869</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.769624,55.800869,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Сабурово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Сабурово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.700100</ns0:longitude>
+<ns0:latitude>55.639722</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.700100,55.639722,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Вознесения Господня в Коломенском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коломенское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.670831</ns0:longitude>
+<ns0:latitude>55.667292</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.670831,55.667292,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Георгия Победоносца в Коломенском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коломенское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.669781</ns0:longitude>
+<ns0:latitude>55.667126</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.669781,55.667126,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Коломенском (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коломенское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.667751</ns0:longitude>
+<ns0:latitude>55.668677</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.667751,55.668677,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иоасафа, царевича Индийского, в Измайлово (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Измайлово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.760585</ns0:longitude>
+<ns0:latitude>55.790807</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.760585,55.790807,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Радонежского в Шереметевке (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Чухлинка-Шереметевка&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.778541</ns0:longitude>
+<ns0:latitude>55.730125</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.778541,55.730125,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Николо-Перервинский мужской монастырь (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Перервинская слобода&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.719109</ns0:longitude>
+<ns0:latitude>55.669311</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.719109,55.669311,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Собор Николая Чудотворца в Николо-Перервинском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Перервинская слобода&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.718735</ns0:longitude>
+<ns0:latitude>55.669347</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.718735,55.669347,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Собор Иконы Божией Матери Иверская в Николо-Перервинском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Перервинская слобода&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.719708</ns0:longitude>
+<ns0:latitude>55.669290</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.719708,55.669290,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Толгская в Николо-Перервинском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Перервинская слобода&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.719540</ns0:longitude>
+<ns0:latitude>55.669645</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.719540,55.669645,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Никодима праведного в Николо-Перервинском монастыре (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., Перервинская слобода&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.718264</ns0:longitude>
+<ns0:latitude>55.669036</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.718264,55.669036,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Усекновения Главы Иоанна Предтечи в Дьяково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Дьяковское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.668999</ns0:longitude>
+<ns0:latitude>55.663994</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.668999,55.663994,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Борисово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Борисово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.728817</ns0:longitude>
+<ns0:latitude>55.629794</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.728817,55.629794,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Моленная Димитрия Солунского в Коломенском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коломенское, ул. Овражная&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.670490</ns0:longitude>
+<ns0:latitude>55.676150</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.670490,55.676150,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Моленная Чиминых в Коломенском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коломенское, ул. Нижняя&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.674000</ns0:longitude>
+<ns0:latitude>55.671700</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.674000,55.671700,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Капотне (новая) (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Капотня&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.791874</ns0:longitude>
+<ns0:latitude>55.639249</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.791874,55.639249,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Влахернская в Кузьминках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Влахернское (Кузьминки)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.790327</ns0:longitude>
+<ns0:latitude>55.690553</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.790327,55.690553,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Борисово (старообрядческая) (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Борисово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.726098</ns0:longitude>
+<ns0:latitude>55.624907</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.726098,55.624907,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Капотне (старая) (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Капотня&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.790851</ns0:longitude>
+<ns0:latitude>55.638698</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.790851,55.638698,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Усекновения Главы Иоанна Предтечи в Братеево (старая) (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Братеево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.750207</ns0:longitude>
+<ns0:latitude>55.637379</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.750207,55.637379,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Чагино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Чагино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.792155</ns0:longitude>
+<ns0:latitude>55.647224</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.792155,55.647224,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Люблино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Люблино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.745653</ns0:longitude>
+<ns0:latitude>55.688451</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.745653,55.688451,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Молитвенный дом Петра и Павла (?) в Люблино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., дачн. местн. Люблино, ул. Московская&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.737678</ns0:longitude>
+<ns0:latitude>55.680421</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.737678,55.680421,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Граворново (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Граворново&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.737233</ns0:longitude>
+<ns0:latitude>55.719966</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.737233,55.719966,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Бориса и Глеба в Зюзино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Зюзино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.580272</ns0:longitude>
+<ns0:latitude>55.658857</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.580272,55.658857,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Воронцово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Воронцово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.540606</ns0:longitude>
+<ns0:latitude>55.667886</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.540606,55.667886,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Коньково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Коньково (Сергиевское)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.519173</ns0:longitude>
+<ns0:latitude>55.638283</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.519173,55.638283,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Петра и Павла в Ясенево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Ясенево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.549207</ns0:longitude>
+<ns0:latitude>55.600002</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.549207,55.600002,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Узком (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Уское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.536658</ns0:longitude>
+<ns0:latitude>55.621599</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.536658,55.621599,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Молитвенный дом Успения Пресвятой Богородицы в Нагатино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Нагатино, ул. Задняя&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.689800</ns0:longitude>
+<ns0:latitude>55.687300</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.689800,55.687300,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Молитвенный дом Иконы Божией Матери Казанская в Новинках (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Новинки, ул. Большая&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.668266</ns0:longitude>
+<ns0:latitude>55.683227</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.668266,55.683227,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Молитвенный дом Николая Чудотворца в Курьяново (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Курьяново&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.689958</ns0:longitude>
+<ns0:latitude>55.656892</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.689958,55.656892,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Молитвенный дом Успения Пресвятой Богородицы в Печатниково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Печатниково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.731022</ns0:longitude>
+<ns0:latitude>55.687026</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.731022,55.687026,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Марьино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Марьино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.711388</ns0:longitude>
+<ns0:latitude>55.654873</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.711388,55.654873,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Покрова Пресвятой Богородицы на Городне (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Покровское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.627869</ns0:longitude>
+<ns0:latitude>55.603288</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.627869,55.603288,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Живоносный Источник в Царицыно (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Царицыно&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.681498</ns0:longitude>
+<ns0:latitude>55.616953</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.681498,55.616953,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Знамение в Чёремушках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Знаменское-Черемушки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.587851</ns0:longitude>
+<ns0:latitude>55.679265</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.587851,55.679265,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной, что на Воробьёвых горах (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Воробьево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.540419</ns0:longitude>
+<ns0:latitude>55.710613</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.540419,55.710613,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Богородском-Воронино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Богородское-Воронино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.488777</ns0:longitude>
+<ns0:latitude>55.648185</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.488777,55.648185,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Верхних Котлах (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Верхние Котлы&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.611139</ns0:longitude>
+<ns0:latitude>55.674024</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.611139,55.674024,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Котляково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Котляково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.638946</ns0:longitude>
+<ns0:latitude>55.633447</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.638946,55.633447,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Семеновском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Семеновское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.547784</ns0:longitude>
+<ns0:latitude>55.689054</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.547784,55.689054,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иоанна Предтечи в Ближнем Беляево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Ближнее Беляево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.670714</ns0:longitude>
+<ns0:latitude>55.642488</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.670714,55.642488,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Михаила Архангела в Тропарёво (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Тропарево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.479242</ns0:longitude>
+<ns0:latitude>55.655848</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.479242,55.655848,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа на Сетуни (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Спасское (Манухино)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.419557</ns0:longitude>
+<ns0:latitude>55.709790</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.419557,55.709790,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Троекурово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троекурово (Хорошово)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.411208</ns0:longitude>
+<ns0:latitude>55.702975</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.411208,55.702975,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Димитрия, митрополита Ростовского, в Очаково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Очаково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.442746</ns0:longitude>
+<ns0:latitude>55.689875</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.442746,55.689875,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Троицком-Голенищево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Голенищево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.521769</ns0:longitude>
+<ns0:latitude>55.721980</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.521769,55.721980,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Очаково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Очаково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.441395</ns0:longitude>
+<ns0:latitude>55.689540</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.441395,55.689540,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Марии Магдалины при даче Николаевского сиротского института (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=7289"&gt;&lt;img src="http://www.temples.ru/private/f001032/032_0344677g.jpg" border=1 width="180" height="132"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, 1-й Сетуньский пр., [район д. 16А]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=7289"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.538565</ns0:longitude>
+<ns0:latitude>55.733010</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.538565,55.733010,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Всех Святых во Всехсвятском (действ.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=6379"&gt;&lt;img src="http://www.temples.ru/private/f000003/144_4451_RT8g.jpg" border=1 width="180" height="116"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, Ленинградский просп., 73А&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6379"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.514014</ns0:longitude>
+<ns0:latitude>55.803875</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.514014,55.803875,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Волынском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Волынское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.483778</ns0:longitude>
+<ns0:latitude>55.716157</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.483778,55.716157,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Спаса Нерукотворного Образа в Большой Сетуни (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Большая Сетунь&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.414111</ns0:longitude>
+<ns0:latitude>55.717770</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.414111,55.717770,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Успения Пресвятой Богородицы в Аминьево (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Аминьево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.455110</ns0:longitude>
+<ns0:latitude>55.708440</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.455110,55.708440,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Никольском (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Никольское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.475587</ns0:longitude>
+<ns0:latitude>55.681725</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.475587,55.681725,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Преображения Господня на Братском кладбище (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=6513"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0258482g.jpg" border=1 width="180" height="118"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, Чапаевский пер., [зап. часть д. 12/1]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6513"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.517533</ns0:longitude>
+<ns0:latitude>55.799094</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.517533,55.799094,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня на Братском кладбище (старая) (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=6514"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0258502g.jpg" border=1 width="180" height="128"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, ул. Новопесчаная, [на сев. от д. 12]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6514"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.512865</ns0:longitude>
+<ns0:latitude>55.799683</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.512865,55.799683,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Радонежского и Елисаветы праведной при Сергиево-Елисаветинском трудовом убежище для увечных воинов Русско-японской войны (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=6515"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0258485g.jpg" border=1 width="180" height="120"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, ул. Викторенко, [7, корп. 3]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6515"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.530593</ns0:longitude>
+<ns0:latitude>55.798061</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.530593,55.798061,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Положения Ризы Божией Матери во Влахерне в Леоново (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Леоново&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.644262</ns0:longitude>
+<ns0:latitude>55.841600</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.644262,55.841600,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Останкино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Останкино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.613679</ns0:longitude>
+<ns0:latitude>55.824102</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.613679,55.824102,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Старых Черёмушках (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Троицкое-Черемушки&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.594402</ns0:longitude>
+<ns0:latitude>55.691423</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.594402,55.691423,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Рождества Пресвятой Богородицы в Рождествено-Суворово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Рождествено-Суворово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.624067</ns0:longitude>
+<ns0:latitude>56.118355</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.624067,56.118355,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Александра Невского при Александровском убежище для увечных и престарелых воинов (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;Москва, ул. Острякова, [двор д. 6]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6517"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.526721</ns0:longitude>
+<ns0:latitude>55.800201</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.526721,55.800201,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Марии Магдалины при Александровском убежище для увечных и престарелых воинов (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;Москва, Ленинградский просп., [проезжая часть перед д. 51]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6518"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.528327</ns0:longitude>
+<ns0:latitude>55.801199</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.528327,55.801199,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня при лазарете в Александровском убежище для увечных и престарелых воинов (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;&lt;a href="http://www.temples.ru/gallery.php?CardID=6519"&gt;&lt;img src="http://www.temples.ru/private/f000204/204_0258484g.jpg" border=1 width="137" height="180"&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Москва, Ленинградский просп., [вост. часть Чапаевского парка]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6519"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.522423</ns0:longitude>
+<ns0:latitude>55.800594</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.522423,55.800594,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Старом Коптево (не сохр.)</ns0:name>
+<ns0:description>
+&lt;div align="center"&gt;Москва, ул. Коптевская, [на юг от д. 8]&lt;br&gt;&lt;br&gt;&lt;a href="http://www.temples.ru/card.php?ID=6516"&gt;&lt;nobr&gt;&lt;i&gt;Подробная информация&lt;/i&gt;&lt;/nobr&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.517212</ns0:longitude>
+<ns0:latitude>55.826779</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.517212,55.826779,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Ростокино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Ростокино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.653407</ns0:longitude>
+<ns0:latitude>55.840808</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.653407,55.840808,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Всех Святых в Черепково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Черепково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.379141</ns0:longitude>
+<ns0:latitude>55.761371</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.379141,55.761371,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Владимирская в Мытищах (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Мытищи&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.774444</ns0:longitude>
+<ns0:latitude>55.910066</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.774444,55.910066,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Мытищах (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Мытищи&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.774939</ns0:longitude>
+<ns0:latitude>55.910053</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.774939,55.910053,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Боголюбская в Пушкино (новая) (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Пушкино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.834227</ns0:longitude>
+<ns0:latitude>56.004697</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.834227,56.004697,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сергия Радонежского в Бусиново (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Бусиново&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.498829</ns0:longitude>
+<ns0:latitude>55.883225</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.498829,55.883225,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Спаса Нерукотворного Образа в Павельцево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Павельцево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.482950</ns0:longitude>
+<ns0:latitude>55.966230</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.482950,55.966230,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Болтино (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Болтино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.676999</ns0:longitude>
+<ns0:latitude>55.967933</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.676999,55.967933,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Николо-Прозорово (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Никольское-Прозоровское&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.621058</ns0:longitude>
+<ns0:latitude>56.083046</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.621058,56.083046,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Троицы Живоначальной в Чашниково (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Чашниково (Троицкое)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.404334</ns0:longitude>
+<ns0:latitude>55.987595</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.404334,55.987595,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Николая Чудотворца в Выхино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Выхино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.829005</ns0:longitude>
+<ns0:latitude>55.708829</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.829005,55.708829,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Боголюбская в Пушкино (старая) (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Пушкино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.834133</ns0:longitude>
+<ns0:latitude>56.005405</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.834133,56.005405,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сошествия Святого Духа в Пушкино (старая) (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., пос. Пушкино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.834140</ns0:longitude>
+<ns0:latitude>56.004915</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.834140,56.004915,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Иконы Божией Матери Боголюбская в Давыдково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Давыдково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.474605</ns0:longitude>
+<ns0:latitude>55.722648</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.474605,55.722648,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Николая Чудотворца в Чашниково (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Чашниково&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.164419</ns0:longitude>
+<ns0:latitude>56.035672</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.164419,56.035672,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня Николая Чудотворца во Владычино (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с-цо Владычино&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.822091</ns0:longitude>
+<ns0:latitude>55.740493</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.822091,55.740493,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Александра Невского в Бирюлёво (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Бирюлево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.653081</ns0:longitude>
+<ns0:latitude>55.591177</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.653081,55.591177,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Часовня в Рублёво (не сохр.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., д. Рублево&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.333709</ns0:longitude>
+<ns0:latitude>55.773744</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>1000</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_destroyed</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.333709,55.773744,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Иконы Божией Матери Казанская в Солнцево (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Орлово&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.378518</ns0:longitude>
+<ns0:latitude>55.630662</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.378518,55.630662,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+
+<ns0:name>Церковь Сретения Господня в Новой Деревне (действ.)</ns0:name>
+<ns0:description>&lt;![CDATA[&lt;div align='center'&gt;Адрес на 1917 г.: Московская губ., Московский у., с. Новая Деревня (на 1922 г.)&lt;/div&gt;]]&gt;</ns0:description>
+<ns0:LookAt>
+<ns0:longitude>37.872469</ns0:longitude>
+<ns0:latitude>56.021453</ns0:latitude>
+<ns0:altitude>0</ns0:altitude>
+<ns0:range>400</ns0:range><ns0:tilt>0</ns0:tilt><ns0:heading>0</ns0:heading>
+</ns0:LookAt>
+<ns0:styleUrl>#style_survive</ns0:styleUrl>
+<ns0:Point><ns0:coordinates>37.872469,56.021453,0</ns0:coordinates></ns0:Point>
+</ns0:Placemark>
+</ns0:Document></ns0:kml>
