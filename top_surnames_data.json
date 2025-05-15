@@ -1,0 +1,459 @@
+{
+  "89": {
+    "name": "Иванов",
+    "value": 37
+  },
+  "12": {
+    "name": "Попов",
+    "value": 281
+  },
+  "78": {
+    "name": "Попов",
+    "value": 111
+  },
+  "23": {
+    "name": "Иванов",
+    "value": 114
+  },
+  "17": {
+    "name": "Кузнецов",
+    "value": 128
+  },
+  "15": {
+    "name": "Попов",
+    "value": 318
+  },
+  "38": {
+    "name": "Ковальчук",
+    "value": 225
+  },
+  "57": {
+    "name": "Попов",
+    "value": 226
+  },
+  "24": {
+    "name": "Иванов",
+    "value": 165
+  },
+  "36": {
+    "name": "Ковальчук",
+    "value": 69
+  },
+  "90": {
+    "name": "Иванов",
+    "value": 357
+  },
+  "54": {
+    "name": "Коваленко",
+    "value": 122
+  },
+  "86": {
+    "name": "Иванов",
+    "value": 85
+  },
+  "91": {
+    "name": "Иванов",
+    "value": 193
+  },
+  "75": {
+    "name": "Иванов",
+    "value": 294
+  },
+  "47": {
+    "name": "Кузнецов",
+    "value": 165
+  },
+  "40": {
+    "name": "Коваленко",
+    "value": 127
+  },
+  "16": {
+    "name": "Смирнов",
+    "value": 589
+  },
+  "59": {
+    "name": "Шевченко",
+    "value": 94
+  },
+  "51": {
+    "name": "Ковалев",
+    "value": 160
+  },
+  "37": {
+    "name": "Макаревич",
+    "value": 51
+  },
+  "48": {
+    "name": "Кузнецов",
+    "value": 147
+  },
+  "74": {
+    "name": "Кузнецов",
+    "value": 127
+  },
+  "3": {
+    "name": "Иванов",
+    "value": 722
+  },
+  "58": {
+    "name": "Попов",
+    "value": 90
+  },
+  "11": {
+    "name": "Богданов",
+    "value": 305
+  },
+  "83": {
+    "name": "Попов",
+    "value": 125
+  },
+  "50": {
+    "name": "Дорофеев",
+    "value": 154
+  },
+  "73": {
+    "name": "Кузнецов",
+    "value": 114
+  },
+  "84": {
+    "name": "Попов",
+    "value": 237
+  },
+  "2": {
+    "name": "Иванов",
+    "value": 465
+  },
+  "39": {
+    "name": "Мельник",
+    "value": 140
+  },
+  "43": {
+    "name": "Шевченко",
+    "value": 109
+  },
+  "88": {
+    "name": "Ким",
+    "value": 114
+  },
+  "18": {
+    "name": "Иванов",
+    "value": 1457
+  },
+  "55": {
+    "name": "Кузнецов",
+    "value": 188
+  },
+  "79": {
+    "name": "Иванов",
+    "value": 144
+  },
+  "77": {
+    "name": "Иванов",
+    "value": 125
+  },
+  "76": {
+    "name": "Кузнецов",
+    "value": 129
+  },
+  "46": {
+    "name": "Иванов",
+    "value": 447
+  },
+  "72": {
+    "name": "Иванов",
+    "value": 81
+  },
+  "53": {
+    "name": "Коваленко",
+    "value": 105
+  },
+  "56": {
+    "name": "Попов",
+    "value": 327
+  },
+  "71": {
+    "name": "Иванов",
+    "value": 76
+  },
+  "87": {
+    "name": "Попов",
+    "value": 101
+  },
+  "13": {
+    "name": "Иванов",
+    "value": 373
+  },
+  "49": {
+    "name": "Кузнецов",
+    "value": 127
+  },
+  "82": {
+    "name": "Иванов",
+    "value": 121
+  },
+  "52": {
+    "name": "Ткаченко",
+    "value": 98
+  },
+  "44": {
+    "name": "Коваленко",
+    "value": 82
+  },
+  "60": {
+    "name": "Кравченко",
+    "value": 13
+  },
+  "14": {
+    "name": "Смирнов",
+    "value": 248
+  },
+  "85": {
+    "name": "Иванов",
+    "value": 262
+  },
+  "42": {
+    "name": "Шевченко",
+    "value": 144
+  },
+  "45": {
+    "name": "Козлов",
+    "value": 170
+  },
+  "96": {
+    "name": "Соловьев",
+    "value": 15
+  },
+  "98": {
+    "name": "Иванов",
+    "value": 101
+  },
+  "81": {
+    "name": "Бондаренко",
+    "value": 46
+  },
+  "31": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "41": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "66": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "106": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "62b": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "70": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "27": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "29": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "70a": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "34": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "28": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "25": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "22": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "5": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "33": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "10": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "64": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "1": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "67": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "65": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "30": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "4": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "9": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "100": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "101": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "7": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "21": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "26": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "95": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "6": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "32": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "62": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "107": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "69": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "105": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "70b": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "99": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "102": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "104": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "103": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "20": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "19": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "8": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "97": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  },
+  "62a": {
+    "name": null,
+    "value": 0,
+    "error": "Source URL missing in script"
+  }
+}
